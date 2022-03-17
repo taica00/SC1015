@@ -1,0 +1,5 @@
+Process
+Response variable will be the level of popularity of the song
+Predictors will be the variables in the dataset e.g. danceability etc
+1) We need to remove any redundant predictors from the dataset
+2) We do bi variate analysis on all the remaining predictors to find correlation
