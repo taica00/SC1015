@@ -6,5 +6,8 @@ Test set on Top 50 2021
 Response variable will be the level of popularity of the song
 Predictors will be the variables in the dataset e.g. danceability etc
 1 notebook will be for the cleaning up of the dataset
+- we will clean up the dates
+- we will see from the number of total songs, then decide which years to take the data from
 1 notebook will be to check on remaining predictors using bi variate analysis
+
 1 notebook for machine learning 
