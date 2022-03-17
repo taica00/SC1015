@@ -1,4 +1,6 @@
 Process
+Training set on the 2010-2019
+Test set on Top 50 2021
 Response variable will be the level of popularity of the song
 Predictors will be the variables in the dataset e.g. danceability etc
 1) We need to remove any redundant predictors from the dataset
