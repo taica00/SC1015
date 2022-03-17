@@ -3,5 +3,6 @@ Training set on the 2010-2019
 Test set on Top 50 2021
 Response variable will be the level of popularity of the song
 Predictors will be the variables in the dataset e.g. danceability etc
-1) We need to remove any redundant predictors from the dataset
-2) We do bi variate analysis on all the remaining predictors to find correlation
+1 notebook will be for the cleaning up of the dataset
+1 notebook will be to check on remaining predictors using bi variate analysis
+1 notebook for machine learning 
