@@ -5,3 +5,4 @@ google collab: https://colab.research.google.com/drive/1zxy4o_IaKGLJMXXPVMPhhMIB
 # Dataset Headers
 Variables: popularity, duration_ms, energy, danceability, key, loudness, speechiness, instrumentalness, liveness, valence, length, acousticness, time_signature, popularity
 # Exploratory Data Analysis
+danceability, loudness, instrumentalness
