@@ -1,8 +1,13 @@
-# Determine popularity of songs based on their attributes
-dataset link: https://www.kaggle.com/shivamshrivastava21/spotify-dataset-with-genres
+# Determine if a job posting is fraudulent. 
+We want to perform data analysis on the dataset to identify interesting insights from this dataset.
+Create a classification model that uses text data features and meta-features to predict whether a job posting is fraudulant in nature. 
+dataset link: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction?select=fake_job_postings.csv
 
-google collab: https://colab.research.google.com/drive/1zxy4o_IaKGLJMXXPVMPhhMIBkYIE-5q2?usp=sharing
 # Dataset Headers
-Variables: popularity, duration_ms, energy, danceability, key, loudness, speechiness, instrumentalness, liveness, valence, length, acousticness, time_signature, popularity
+Variables: Job Title, Location, Department, Salary_range, Company_profile, Description, Requirements, Benefits, Telecommuting, Has_company_logo, Has_questions, 
+Employment_type, Required_experience, Required_education, Industry, Function, Fraudulent
+
 # Exploratory Data Analysis
-danceability, loudness, instrumentalness
+Markup: *Bullet list
+*We cleaned the data and removed the variables that we think may not have a high relation to whether a job posting is fraudulent.
+
