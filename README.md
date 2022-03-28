@@ -8,5 +8,5 @@ Variables: Job Title, Location, Department, Salary_range, Company_profile, Descr
 Employment_type, Required_experience, Required_education, Industry, Function, Fraudulent
 
 # Exploratory Data Analysis
-*We cleaned the data and removed the variables that we think may not have a high relation to whether a job posting is fraudulent.
+* We cleaned the data and removed the variables that we think may not have a high relation to whether a job posting is fraudulent.
 
