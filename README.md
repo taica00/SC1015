@@ -1,5 +1,5 @@
 # Determine if a job posting is fraudulent. 
-We want to perform data analysis on the dataset to identify interesting insights from this dataset.\n
+We want to perform data analysis on the dataset to identify interesting insights from this dataset.
 Create a classification model that uses text data features and meta-features to predict whether a job posting is fraudulant in nature. 
 dataset link: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction?select=fake_job_postings.csv
 
