@@ -1,13 +1,4 @@
 Motivation
-You are a songwriter and want to write a song which will appeal to the masses and enter the top charts, therefore you are trying to analyse the trends in the top 50 songs in spotify
-Process
-Training set on the 2010-2019
-Test set on Top 50 2021
-Response variable will be the level of popularity of the song
-Predictors will be the variables in the dataset e.g. danceability etc
-1 notebook will be for the cleaning up of the dataset
-- we will clean up the dates
-- we will see from the number of total songs, then decide which years to take the data from
-1 notebook will be to check on remaining predictors using bi variate analysis
+Predicting whether a job posting is fraudulent. 
+Which type of machine learning would be the best in detecting a fraudulent job posting. 
 
-1 notebook for machine learning 
