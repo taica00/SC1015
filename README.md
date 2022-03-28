@@ -9,4 +9,5 @@ Employment_type, Required_experience, Required_education, Industry, Function, Fr
 
 # Exploratory Data Analysis
 * We cleaned the data and removed the variables that we think may not have a high relation to whether a job posting is fraudulent.
-
+* After cleaning the data, we proceeded to find the correlation of the different data columns of the data to the response variable: fraudulent.
+* 
