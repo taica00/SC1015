@@ -1,3 +1,6 @@
+# Problem Definition
+You are a moderator for a job recruitment website and with many job postings being posted on the site daily, you have to sieve out the fradulent job postings from the real postings. Therefore you are trying to use data science and machine learning in order to create an algorithm which identifies which job posting is fradulent based on certain variables. 
+
 # Determine if a job posting is fraudulent. 
 We want to perform data analysis on the dataset to identify interesting insights from this dataset.<br />
 Create a classification model that uses text data features and meta-features to predict whether a job posting is fraudulant in nature.<br />
