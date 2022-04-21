@@ -1,6 +1,6 @@
 # Fraudulent Job Posting Detector
 ## About
-
+This is our mini project for Intro to Data Science and Artificial Intelligence (SC1015) that focuses on detecting fraudulent job postings.
 ## Problem definition
 The COVID-19 pandemic has displaced millions of people from their jobs. In these desperate times, this has provided a perfect opportunity for online scammers to prey on their desperation. We are witnessing a daily rise in fake job postings and it is becoming increasingly difficult to differentiate between real and fraudulent job postings. Through this project, we aim to use data science and machine learning to create a classification model that uses text data features and meta-features to predict whether a job posting is fraudulent in nature.
 ## Models used
@@ -9,6 +9,7 @@ The COVID-19 pandemic has displaced millions of people from their jobs. In these
 3. Logistics Regression
 ## Notebook 1: Cleaning of Dataset
 For the first notebook, we cleaned the dataset by removing any variables with high amounts of NaN values. Next, we converted text variables to their character count as we decided that numerical values were easier to analyse as compared to text data. 
+
 ## Notebook 2: Exploratory Data Analysis
 We then did exploratory data analysis of each variable by plotting each variable into two categories: fraudulent and non-fraudulent to find the correlation between the variables to the response variable: fraudulent. We then removed any variables that we think might not have a high relation to the response variable.
 Variables: Job Title, Location, Department, Salary_range, Company_profile, Description, Requirements, Benefits, Telecommuting, Has_company_logo, Has_questions, 
