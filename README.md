@@ -17,7 +17,7 @@ For data preparation, as we noticed that the dataset was imbalanced in notebook 
 ## Notebook 4: Machine learning - Random forest, K nearest neighbours
 We did machine learning. THen we compare the values to see which is the better model to use. To be elaborated more upon later.
 ## Contributions
-Lee Ding Zheng: Cleaning of data, EDA and Presentation \n
+Lee Ding Zheng: Cleaning of data, EDA and Presentation
 Qwek Jin Kee: Cleaning of data, EDA and Presentation
 Tai Chen An: Machine Learning 
 ## References
