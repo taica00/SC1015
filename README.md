@@ -6,7 +6,7 @@ You are a moderator for a job recruitment website and with many job postings bei
 1. Random forest
 2. K Nearest Neighbours
 3. Logistics Regression
-## Jupyter Notebook 1: Cleaning of Dataset
+## Notebook 1: Cleaning of Dataset
 For the first notebook, we cleaned the dataset by removing any variables with high amounts of NaN values. Next, we converted text variables to their character count as we decided that numerical values were easier to analyse as compared to text data.
 ## Notebook 2: Exploratory Data Analysis
 For exploratory analysis, we plotted a bargraph comparing the number of fraudulent job postings versus non-fraudulent ones and discovered that the dataset was very imbalanced. We then did exploratory data analysis of each variable by plotting each variable into two categories: fraudulent and non-fraudulent. 
