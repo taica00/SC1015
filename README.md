@@ -1,15 +1,15 @@
 # About
 
-# Problem definition
+## Problem definition
 You are a moderator for a job recruitment website and with many job postings being posted on the site daily, you have to sieve out the fraudulent job postings from the real postings. Therefore you are trying to use data science and machine learning in order to create an algorithm which identifies which job posting is fraudulent based on certain variables. 
-# Models used
+## Models used
 
-# Jupyter Notebook 1: Cleaning of Dataset
-# Notebook 2: Exploratory Data Analysis
-# Notebook 3: Data preparation - Miss forest and SMOTE
-# Notebook 4: Machine learning - Random forest, K nearest neighbours
-# Contributions
-# References
+## Jupyter Notebook 1: Cleaning of Dataset
+## Notebook 2: Exploratory Data Analysis
+## Notebook 3: Data preparation - Miss forest and SMOTE
+## Notebook 4: Machine learning - Random forest, K nearest neighbours
+## Contributions
+## References
 
 
 
