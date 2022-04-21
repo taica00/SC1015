@@ -9,7 +9,7 @@ The COVID-19 pandemic has displaced millions of people from their jobs. In these
 3. Logistics Regression
 ## Notebook 1: Cleaning of Dataset
 For the first notebook, we cleaned the dataset by removing any variables with high amounts of NaN values. Next, we converted text variables to their character count as we decided that numerical values were easier to analyse as compared to text data.</br>
-[Cleaning of data](https://github.com/taica00/SC1015/blob/main/Cleaning%20of%20Dataset%20.ipynb)
+[Notebook 1: Cleaning of data](https://github.com/taica00/SC1015/blob/main/Cleaning%20of%20Dataset%20.ipynb)
 
 ## Notebook 2: Exploratory Data Analysis
 We then did exploratory data analysis of each variable by plotting each variable into two categories: fraudulent and non-fraudulent to find the correlation between the variables to the response variable: fraudulent. We then removed any variables that we think might not have a high relation to the response variable.
