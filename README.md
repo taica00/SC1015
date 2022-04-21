@@ -11,7 +11,7 @@ For the first notebook, we cleaned the dataset by removing any variables with hi
 ## Notebook 2: Exploratory Data Analysis
 For exploratory analysis, we plotted a bargraph comparing the number of fraudulent job postings versus non-fraudulent ones and discovered that the dataset was very imbalanced. We then did exploratory data analysis of each variable by plotting each variable into two categories: fraudulent and non-fraudulent. 
 ## Notebook 3: Data preparation - Miss forest and SMOTENC
-For data preparation, as we noticed that the dataset was imbalanced in notebook 2, we decided to use SMOTENC(Synthetic Minority Over-sampling Technique for Nominal and Continuous), an oversampling technique to balance our dataset. 
+For data preparation, as we noticed that the dataset was imbalanced in notebook 2, we decided to use SMOTENC(Synthetic Minority Over-sampling Technique for Nominal and Continuous), an oversampling technique to balance our dataset. We also used MissForest, an algorithm that imputes all missing data using mean/mode for each variables with missing values.
 ## Notebook 4: Machine learning - Random forest, K nearest neighbours
 ## Contributions
 ## References
