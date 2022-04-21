@@ -10,7 +10,8 @@ You are a moderator for a job recruitment website and with many job postings bei
 For the first notebook, we cleaned the dataset by removing any variables with high amounts of NaN values. Next, we converted text variables to their character count as we decided that numerical values were easier to analyse as compared to text data.
 ## Notebook 2: Exploratory Data Analysis
 For exploratory analysis, we plotted a bargraph comparing the number of fraudulent job postings versus non-fraudulent ones and discovered that the dataset was very imbalanced. We then did exploratory data analysis of each variable by plotting each variable into two categories: fraudulent and non-fraudulent. 
-## Notebook 3: Data preparation - Miss forest and SMOTE
+## Notebook 3: Data preparation - Miss forest and SMOTENC
+For data preparation, as we noticed that the dataset was imbalanced in notebook 2, we decided to use SMOTENC(Synthetic Minority Over-sampling Technique for Nominal and Continuous), an oversampling technique to balance our dataset. 
 ## Notebook 4: Machine learning - Random forest, K nearest neighbours
 ## Contributions
 ## References
