@@ -24,3 +24,8 @@ Qwek Jin Kee: Cleaning of data, EDA and Presentation </br>
 Tai Chen An: Machine Learning 
 ## References
 https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+https://medium.com/analytics-vidhya/smote-nc-in-ml-categorization-models-fo-imbalanced-datasets-8adbdcf08c25
+https://towardsdatascience.com/missforest-the-best-missing-data-imputation-algorithm-4d01182aed3
+https://www.kaggle.com/code/sociopath00/random-forest-using-gridsearchcv/notebook
+https://medium.datadriveninvestor.com/k-nearest-neighbors-in-python-hyperparameters-tuning-716734bc557f
+https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
