@@ -13,8 +13,7 @@ For the first notebook, we cleaned the dataset by removing any variables with hi
 
 ## [Notebook 2: Exploratory Data Analysis]()
 In this notebook, we first did some simple exploration of our cleaned data. From this, we discovered that our dataset was very imbalanced as the number of real job postings was much higher than fraudulent job postings. We then did exploratory data analysis of each variable by plotting each variable into two categories: fraudulent and non-fraudulent to find the correlation between the variables to the response variable: fraudulent. We then removed any variables that we think might not have a high relation to the response variable.
-Variables: Job Title, Location, Department, Salary_range, Company_profile, Description, Requirements, Benefits, Telecommuting, Has_company_logo, Has_questions, 
-Employment_type, Required_experience, Required_education, Industry, Function, Fraudulent
+Variables: Job Title, Location, Telecommuting, has_company_logo, has_questions, employment_type, required_experience, required_education, industry, function, description_length, company_profile_length, requirements_length, benefits_length, fraudulent
 ## [Notebook 3: Data preparation - Miss forest and SMOTENC](https://github.com/taica00/SC1015/blob/main/MissForest%20and%20SMOTENC.ipynb)
 As mentioned in the previous notebook, we discovered that the dataset was very imbalanced. Hence, we decided to use SMOTENC(Synthetic Minority Over-sampling Technique for Nominal and Continuous), an oversampling technique to balance our dataset. We also used MissForest, an algorithm that imputes all missing data using mean/mode for each variables with missing values. 
 ## [Notebook 4: Machine learning - Random forest, K nearest neighbours]()
