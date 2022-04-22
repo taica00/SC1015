@@ -11,7 +11,7 @@ The COVID-19 pandemic has displaced millions of people from their jobs. In these
 For the first notebook, we cleaned the dataset by removing any variables with high amounts of NaN values. Next, we converted text variables to their character count as we decided that numerical values were easier to analyse as compared to text data.</br>
 
 
-## [Notebook 2: Exploratory Data Analysis]()
+## [Notebook 2: Exploratory Data Analysis](https://github.com/taica00/SC1015/blob/main/Exploratory%20Data%20Analysis%20of%20Dataset.ipynb)
 In this notebook, we first did some simple exploration of our cleaned data. From this, we discovered that our dataset was very imbalanced as the number of real job postings was much higher than fraudulent job postings. We then did exploratory data analysis of each variable by plotting each variable into two categories: fraudulent and non-fraudulent to find the correlation between the variables to the response variable: fraudulent. We then removed any variables that we think might not have a high relation to the response variable.
 Variables: Job Title, Location, Telecommuting, has_company_logo, has_questions, employment_type, required_experience, required_education, industry, function, description_length, company_profile_length, requirements_length, benefits_length, fraudulent
 ## [Notebook 3: Data preparation - Miss forest and SMOTENC](https://github.com/taica00/SC1015/blob/main/MissForest%20and%20SMOTENC.ipynb)
