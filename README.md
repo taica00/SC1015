@@ -16,8 +16,8 @@ In this notebook, we first did some simple exploration of our cleaned data. From
 Variables: Job Title, Location, Telecommuting, has_company_logo, has_questions, employment_type, required_experience, required_education, industry, function, description_length, company_profile_length, requirements_length, benefits_length, fraudulent
 ## [Notebook 3: Data preparation - Miss forest and SMOTENC](https://github.com/taica00/SC1015/blob/main/MissForest%20and%20SMOTENC.ipynb)
 We first used the MissForest algorithm to impute all missing data. As mentioned in the previous notebook, we discovered that the dataset was very imbalanced. Hence, we decided to use SMOTENC(Synthetic Minority Over-sampling Technique for Nominal and Continuous), an oversampling technique to balance our dataset. 
-## [Notebook 4: Machine learning - Random forest, K nearest neighbours, XGBoost](https://github.com/taica00/SC1015/blob/main/Machine%20Learning.ipynb)
-We did machine learning. Then we compare the values to see which is the better model to use. To be elaborated more upon later.
+## [Notebook 4: Machine learning - Random Forest, K-Nearest Neighbours, XGBClassifier](https://github.com/taica00/SC1015/blob/main/Machine%20Learning.ipynb)
+We used 3 different classification models on our dataset. We used GridSearchCV to tune the hyperparameters for each model, aiming for the best f1 score. XGBClassifier was slightly better than Random Forest while K-Nearest Neighbours was by far the worst model for our dataset.
 ## Contributions
 Lee Ding Zheng: Cleaning of data, EDA and Presentation </br>
 Qwek Jin Kee: Cleaning of data, EDA and Presentation </br>
