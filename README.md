@@ -35,3 +35,5 @@ We used 3 different classification models on our dataset. We used GridSearchCV t
 - https://www.kaggle.com/code/sociopath00/random-forest-using-gridsearchcv/notebook
 - https://medium.datadriveninvestor.com/k-nearest-neighbors-in-python-hyperparameters-tuning-716734bc557f
 - https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+- https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
+- https://towardsdatascience.com/understanding-random-forest-58381e0602d2
