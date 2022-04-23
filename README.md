@@ -24,6 +24,7 @@ We used 3 different classification models on our dataset. We used GridSearchCV t
 - XGBClassifier was the best model for our dataset with a F1-score and recall of 0.83, and a precision of 0.82, for the positive class.
 - This means that we are able to predict most fraudulent job postings, and most of the predictions are accurate.
 ## What did we learn from this project?
+- Collaborating using GitHub
 - Imputating missing data with algorithms such as MissForest.
 - Creating synthetic examples of the minority class for an imbalanced dataset with SMOTE for training our classification models.
 - How different classification models work and why some work better for our dataset.
