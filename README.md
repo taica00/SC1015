@@ -37,3 +37,4 @@ We used 3 different classification models on our dataset. We used GridSearchCV t
 - https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
 - https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
 - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+- https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d
