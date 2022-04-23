@@ -6,7 +6,7 @@ The COVID-19 pandemic has displaced millions of people from their jobs. In these
 ## Contributors
 [@leedz31](https://github.com/leedz31) Lee Ding Zheng: Cleaning of data, EDA and Presentation </br>
 [@JeeinK](https://github.com/JeeinK) Qwek Jin Kee: Cleaning of data, EDA and Presentation </br>
-[@taica00](https://github.com/taica00) Tai Chen An: Machine Learning 
+[@taica00](https://github.com/taica00) Tai Chen An: Data preparation and Machine Learning 
 ## Models used
 1. Random forest
 2. K-Nearest Neighbours
