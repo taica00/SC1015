@@ -3,10 +3,6 @@
 This is our Mini-Project for Intro to Data Science and Artificial Intelligence (SC1015) that focuses on detecting fraudulent job postings from a [Kaggle dataset](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction). 
 ## Problem definition
 The COVID-19 pandemic has displaced millions of people from their jobs. In these desperate times, this has provided a perfect opportunity for online scammers to prey on their desperation. We are witnessing a daily rise in fake job postings and it is becoming increasingly difficult to differentiate between real and fraudulent job postings. Through this project, we aim to use data science and machine learning to create a classification model that uses text data features and meta-features to predict whether a job posting is fraudulent in nature.
-## Contributors
-[@leedz31](https://github.com/leedz31) Lee Ding Zheng: Cleaning of data, EDA and Presentation </br>
-[@JeeinK](https://github.com/JeeinK) Qwek Jin Kee: Cleaning of data, EDA and Presentation </br>
-[@taica00](https://github.com/taica00) Tai Chen An: Data preparation and Machine Learning 
 ## Models used
 1. Random forest
 2. K-Nearest Neighbours
@@ -30,6 +26,10 @@ We used 3 different classification models on our dataset. We used GridSearchCV t
 - Creating synthetic examples of the minority class for an imbalanced dataset with SMOTE for training our classification models.
 - How different classification models work and why some work better for our dataset.
 - Cross validation with GridSearchCV to tune the hyperparameters for our classification models.
+## Contributors
+[@leedz31](https://github.com/leedz31) Lee Ding Zheng: Cleaning of data, EDA and Presentation </br>
+[@JeeinK](https://github.com/JeeinK) Qwek Jin Kee: Cleaning of data, EDA and Presentation </br>
+[@taica00](https://github.com/taica00) Tai Chen An: Data preparation and Machine Learning 
 ## References
 - https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
 - https://medium.com/analytics-vidhya/smote-nc-in-ml-categorization-models-fo-imbalanced-datasets-8adbdcf08c25
